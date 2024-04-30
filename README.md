@@ -27,7 +27,7 @@ Welcome to System Nuker, a powerful multitool
 
 ⚠️ Use this tool responsibly and only on systems and accounts you own or have explicit permission to access. System Nuker shall not be held responsible for any misuse or illegal activities carried out with this tool.
 
-## 👥 Copyright
+## 👥 Credits
 
 - F MENU Creator: [@GoobGub](https://github.com/goobgub)
 
