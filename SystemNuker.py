@@ -45,7 +45,7 @@ def print_menu():
     b = Colors.blue_to_purple
     lr = Colors.light_red
 
-    os.system('cls' if os.name == 'nt' else 'clear')  # Limpiar pantalla
+    os.system('cls' if os.name == 'nt' else 'clear')
     print('')
     print('')
     Write.Print("""      ███████╗██╗   ██╗███████╗████████╗███████╗███╗   ███╗    ███╗   ██╗██╗   ██╗██╗  ██╗███████╗██████╗ \n""", Colors.purple_to_blue, interval=0.000)
